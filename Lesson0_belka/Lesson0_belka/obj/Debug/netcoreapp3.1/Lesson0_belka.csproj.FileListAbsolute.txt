@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\bin\Debug\netcoreapp3.1\Lesson0_belka.exe
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\bin\Debug\netcoreapp3.1\Lesson0_belka.deps.json
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\bin\Debug\netcoreapp3.1\Lesson0_belka.runtimeconfig.json
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\bin\Debug\netcoreapp3.1\Lesson0_belka.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\bin\Debug\netcoreapp3.1\Lesson0_belka.dll
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\bin\Debug\netcoreapp3.1\Lesson0_belka.pdb
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\obj\Debug\netcoreapp3.1\Lesson0_belka.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\obj\Debug\netcoreapp3.1\Lesson0_belka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\obj\Debug\netcoreapp3.1\Lesson0_belka.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\obj\Debug\netcoreapp3.1\Lesson0_belka.AssemblyInfo.cs
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\obj\Debug\netcoreapp3.1\Lesson0_belka.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\obj\Debug\netcoreapp3.1\Lesson0_belka.dll
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\obj\Debug\netcoreapp3.1\Lesson0_belka.pdb
+C:\Users\ACER\Desktop\projects\Lesson0_belka\Lesson0_belka\obj\Debug\netcoreapp3.1\Lesson0_belka.genruntimeconfig.cache
