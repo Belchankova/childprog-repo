@@ -1,0 +1,14 @@
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.exe
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.deps.json
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.runtimeconfig.json
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.runtimeconfig.dev.json
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.dll
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.pdb
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.csproj.AssemblyReference.cache
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.AssemblyInfoInputs.cache
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.AssemblyInfo.cs
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.dll
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.pdb
+C:\Users\ACER\childprog-repo\Lesson4\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.genruntimeconfig.cache
